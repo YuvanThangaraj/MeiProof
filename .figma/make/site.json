@@ -1,0 +1,14 @@
+{
+  "title": "MeiProof — Evidence-first invoice review",
+  "description": "Review invoice evidence, identify inconsistencies, and keep an auditable record of important decisions. Demo prototype with synthetic data.",
+  "icons": {
+    "icon": "/assets/meiproof-logo.png"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
